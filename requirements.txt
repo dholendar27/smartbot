@@ -1,0 +1,6 @@
+openai==0.27.4
+unstructured==0.5.11
+langchain==0.0.136
+pypdf==3.7.1
+chroma=0.3.21
+tiktoken==0.3.3
